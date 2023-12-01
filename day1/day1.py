@@ -39,5 +39,4 @@ def solution():
         res += int(lineStr[0] + lineStr[-1])
     print(res)
 
-
 solution()
